@@ -18,11 +18,11 @@ Goal of this project is to validate the data between  that Repositories in Djang
 
 For the Webpage Repositories and Description of the module visit:
 
-   		<li> https://github.com/django </li>
+   		* https://github.com/django 
   
 For API's Repositoies and Description used:
 
-   		<li>https://api.github.com/orgs/django/repos</li>
+   		* https://api.github.com/orgs/django/repos
    
 ### Built With
 
@@ -49,7 +49,8 @@ The project majorly built with following frameworks/libraries. Here are a few ex
 ### Usage
 
 Using git,clone the project using the following command
-	git clone ---------------------------
+
+	* git clone https://github.com/npriya1988/ridecell_assessment.git
 
 Once clone completed.Open the Eclipse IDE, click on File->Open->Select RideCellAssessment(from you have clone the project).
 The project has TestNG.xml file,right click and Run As TestNG Suite.
@@ -60,6 +61,6 @@ Once run is completed you can see the reports in RideCellAssessment->Reports->(C
 
 ### Contact
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/npriya1988/ridecell_assessment](https://github.com/your_username/repo_name)
 
 

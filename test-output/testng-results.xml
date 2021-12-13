@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="19518" started-at="2021-12-13T04:39:01Z" finished-at="2021-12-13T04:39:20Z">
+  <suite name="Suite" duration-ms="26515" started-at="2021-12-13T07:24:48Z" finished-at="2021-12-13T07:25:15Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="19518" started-at="2021-12-13T04:39:01Z" finished-at="2021-12-13T04:39:20Z">
+    <test name="Test" duration-ms="26515" started-at="2021-12-13T07:24:48Z" finished-at="2021-12-13T07:25:15Z">
       <class name="com.django.testSuite.DjangoTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.django.testSuite.DjangoTest@52a86356]" name="setUp" is-config="true" duration-ms="9949" started-at="2021-12-13T10:09:01Z" finished-at="2021-12-13T10:09:11Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.django.testSuite.DjangoTest@52a86356]" name="setUp" is-config="true" duration-ms="15916" started-at="2021-12-13T12:54:48Z" finished-at="2021-12-13T12:55:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="initWorkFlow()[pri:0, instance:com.django.testSuite.DjangoTest@52a86356]" name="initWorkFlow" is-config="true" duration-ms="89" started-at="2021-12-13T10:09:11Z" finished-at="2021-12-13T10:09:11Z">
+        <test-method status="PASS" signature="initWorkFlow()[pri:0, instance:com.django.testSuite.DjangoTest@52a86356]" name="initWorkFlow" is-config="true" duration-ms="118" started-at="2021-12-13T12:55:04Z" finished-at="2021-12-13T12:55:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initWorkFlow -->
-        <test-method status="PASS" signature="validateRepoNameFromPageAndAPI()[pri:0, instance:com.django.testSuite.DjangoTest@52a86356]" name="validateRepoNameFromPageAndAPI" duration-ms="8899" started-at="2021-12-13T10:09:11Z" finished-at="2021-12-13T10:09:20Z">
+        <test-method status="PASS" signature="validateRepoNameFromPageAndAPI()[pri:0, instance:com.django.testSuite.DjangoTest@52a86356]" name="validateRepoNameFromPageAndAPI" duration-ms="9902" started-at="2021-12-13T12:55:04Z" finished-at="2021-12-13T12:55:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateRepoNameFromPageAndAPI -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.django.testSuite.DjangoTest@52a86356]" name="tearDown" is-config="true" duration-ms="547" started-at="2021-12-13T10:09:20Z" finished-at="2021-12-13T10:09:20Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.django.testSuite.DjangoTest@52a86356]" name="tearDown" is-config="true" duration-ms="548" started-at="2021-12-13T12:55:14Z" finished-at="2021-12-13T12:55:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="createReports()[pri:0, instance:com.django.testSuite.DjangoTest@52a86356]" name="createReports" is-config="true" duration-ms="163" started-at="2021-12-13T10:09:20Z" finished-at="2021-12-13T10:09:20Z">
+        <test-method status="PASS" signature="createReports()[pri:0, instance:com.django.testSuite.DjangoTest@52a86356]" name="createReports" is-config="true" duration-ms="777" started-at="2021-12-13T12:55:15Z" finished-at="2021-12-13T12:55:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createReports -->
